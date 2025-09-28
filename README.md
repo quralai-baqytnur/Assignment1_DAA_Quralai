@@ -28,3 +28,10 @@ Recurrence: T(n) = 2T(n/2) + Θ(n). Master theorem gives Θ(n log n).
 
 # Summary
 Theory and practice mostly match. QuickSort is often faster in time because of lower constants but does more comparisons. MergeSort depth depends on cut-off. Deterministic Select grows linearly as expected. Closest Pair follows n log n. Constant factors  explain small differences.
+
+git init
+git remote add origin https://github.com/quralai-baqytnur/assigment1DAA.git
+git checkout -b main
+git add .
+git commit -m "init: maven, junit5, ci, readme"
+git push -u origin main
