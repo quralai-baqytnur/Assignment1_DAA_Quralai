@@ -1,0 +1,12 @@
+# Maven build
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Output folders
+out/
+
+# MacOS
+.DS_Store
